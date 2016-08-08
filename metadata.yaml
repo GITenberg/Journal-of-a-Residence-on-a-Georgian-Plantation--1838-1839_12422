@@ -1,0 +1,33 @@
+_repo: Journal-of-a-Residence-on-a-Georgian-Plantation--1838-1839_12422
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kemble, Fanny
+    aliases:
+    - Butler, Frances Anne
+    - Kemble, Frances Anne
+    birthdate: 1809
+    deathdate: 1893
+    gutenberg_agent_id: '26319'
+    url: http://www.gutenberg.org/2009/agents/26319
+    wikipedia: http://en.wikipedia.org/wiki/Fanny_Kemble
+description: ''
+gutenberg_bookshelf: Women's Travel Journals
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12422'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kemble, Fanny, 1809-1893 -- Diaries'
+- !lcsh 'Plantation owners'' spouses -- Georgia -- Diaries'
+- !lcsh 'Slavery -- Georgia -- History -- 19th century'
+- !lcsh 'Georgia -- Social life and customs'
+- !lcsh 'Plantation life -- Georgia -- History -- 19th century'
+- !lcc 'F206'
+- GITenberg
+title: 'Journal of a Residence on a Georgian Plantation: 1838-1839'
+url: http://www.gutenberg.org/ebooks/12422
