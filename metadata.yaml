@@ -1,5 +1,8 @@
 _repo: Journal-of-a-Residence-on-a-Georgian-Plantation--1838-1839_12422
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kemble, Fanny
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26319
     wikipedia: http://en.wikipedia.org/wiki/Fanny_Kemble
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12422#Journal-of-a-Residence-on-a-Georgian-Plantation--1838-1839
 gutenberg_bookshelf: Women's Travel Journals
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
